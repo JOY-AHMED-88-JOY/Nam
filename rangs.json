@@ -1,20 +1,6 @@
 {
     "facebook": [
-        { "range": "23762XXX", "name": "Cameroon CM" },
-        { "range": "2290165XXX", "name": "Benin BJ" },
-        { "range": "23674XXX", "name": "Central African Republic CF" },
-        { "range": "22465XXX", "name": "Guinea GN" },
-        { "range": "23275XXX", "name": "Sierra Leone SL" },
-        { "range": "2613XXX", "name": "Madagascar MG" },
-        { "range": "26377XXX", "name": "Zimbabwe ZW" },
-        { "range": "22897XXX", "name": "Togo TG" },
-        { "range": "37495XXX", "name": "Armenia AM" },
-        { "range": "2250151XXX", "name": "Cote d'Ivoire CI" },
-        { "range": "324680XXX", "name": "Belgium BE" },
-        { "range": "22879XXX", "name": "Togo TG" },
-        { "range": "37455XXX", "name": "Armenia AM" },
-        { "range": "25565XXX", "name": "Tanzania TZ" },
-        { "range": "223698XXX", "name": "Mali ML" }
+        { "range": "2246XXX", "name": "Guinea GN" },
+        { "range": "2491XXX", "name": "Sudan SD" }
     ]
 }
-
